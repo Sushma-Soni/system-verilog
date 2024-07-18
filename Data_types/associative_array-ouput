@@ -1,0 +1,12 @@
+array_enum[TRANS] = 10
+array_enum[RECEIVE] = 20
+array_enum[REPEATER] = 30
+Next index after 7th index is= 10
+Previous index before 10th index is= 7
+array_int[5] = 2
+array_int[7] = 6
+array_int[10] = 4
+1st index of array_enum = TRANS
+last index of array_enum = REPEATER
+prev index before REPEATER of array_enum = RECEIVE
+           V C S   S i m u l a t i o n   R e p o r t 
