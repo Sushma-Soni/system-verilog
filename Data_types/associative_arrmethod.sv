@@ -41,3 +41,41 @@ module associative_array;
     $finish();
   end
 endmodule
+
+module associative_array_example2;
+     int index;
+  typedef enum {TRANS, RECEIVE, REPEATER} tr_type;
+  bit [7:0] array_enum [tr_type];
+  bit [7:0] array_int [int];
+  tr_type tr_name;
+  initial begin
+    
+    array_enum[TRANS] = 10;
+    array_enum[RECEIVE] = 20;
+    array_enum[REPEATER] = 30;
+    
+    foreach (array_enum[i]) $display("array_enum[%s] = %0d", i.name(), array_enum[i]);
+    
+    array_int[5] = 2;
+    array_int[10] = 4;
+    array_int[7] = 6;
+    index=7;
+    array_int.next(index); // Next index of after 7th
+    $display("Next index after 7th index is= %0d", index);
+     index=10;
+    array_int.prev(index); // previous index of before 10th
+    $display("Previous index before 10th index is= %0d", index);
+    
+    foreach (array_int[j]) $display("array_int[%0d] = %0d", j, array_int[j]);
+    
+    array_enum.first(tr_name);
+    $display("1st index of array_enum = %s",tr_name) ;
+    
+     array_enum.last(tr_name);
+    $display("last index of array_enum = %s",tr_name) ;
+    
+    array_enum.prev(tr_name);
+    $display("prev index before REPEATER of array_enum = %s",tr_name) ;
+  end 
+  
+endmodule
