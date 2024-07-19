@@ -1,0 +1,43 @@
+ Jul 19 02:45 2024
+-----Randomized values---
+ a=21,
+ b=10 
+ y=14
+-----Randomized values---
+ a=13,
+ b=14 
+ y= 4
+-----Randomized values---
+ a=20,
+ b=12 
+ y= 3
+-----Randomized values---
+ a=12,
+ b=15 
+ y=15
+-----Randomized values---
+ a=13,
+ b=15 
+ y=10
+-----Randomized values---
+ a=13,
+ b=13 
+ y= 0
+-----Randomized values---
+ a=19,
+ b=10 
+ y= 1
+-----Randomized values---
+ a=11,
+ b=15 
+ y=13
+-----Randomized values---
+ a=12,
+ b=13 
+ y= 2
+-----Randomized values---
+ a=21,
+ b=10 
+ y= 7
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0 ns

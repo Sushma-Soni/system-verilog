@@ -1,0 +1,25 @@
+
+class generator;
+  
+  rand bit [4:0] a, b; ////////////rand or randc 
+  randc bit [3:0] y;
+  
+   constraint data {
+     (a inside {[3:7],[15:30]});// a should lie inside mentioned values
+     (b inside {[5:9],[12:25]});// b should lie inside mentioned values
+     (a<10); 
+     (b>25); 
+   }
+endclass
+
+output for  :-
+
+Error-[CNST-CIF] Constraints inconsistency failure
+testbench.sv, 21
+  Constraints are inconsistent and cannot be solved.
+  Please check the inconsistent constraints being printed above and rewrite 
+  them.
+
+-----Randomization failed-------
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0 ns

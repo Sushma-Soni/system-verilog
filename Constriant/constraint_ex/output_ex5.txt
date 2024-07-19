@@ -1,0 +1,28 @@
+  Jul 19 04:07 2024
+-----Randomized values---
+ a= 4,
+ b=15 
+ y= 0
+result=         19
+-----Randomized values---
+ a= 4,
+ b= 2 
+ y= 0
+result=          6
+-----Randomized values---
+ a=10,
+ b=12 
+ y= 0
+result=         22
+-----Randomized values---
+ a=12,
+ b= 8 
+ y= 0
+result=         20
+-----Randomized values---
+ a= 4,
+ b= 7 
+ y= 0
+result=         11
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0 ns

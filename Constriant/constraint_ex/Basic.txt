@@ -1,0 +1,3 @@
+
+syntax:-
+constraint <constraint name> {unique {array or variable};}
