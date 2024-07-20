@@ -1,0 +1,8 @@
+Error-[CNST-CIF] Constraints inconsistency failure
+testbench.sv, 48
+  Constraints are inconsistent and cannot be solved.
+  Please check the inconsistent constraints being printed above and rewrite 
+  them.
+
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 80 ns

@@ -1,0 +1,19 @@
+Jul 20 05:12 2024
+----Randomization of a and b between given range value----
+Value of a :5 and b: 10
+----Randomization of a and b between given range value----
+Value of a :6 and b: 3
+----Randomization of a and b between given range value----
+Value of a :3 and b: 9
+----Randomization of a and b between given range value----
+Value of a :7 and b: 4
+----Randomization of a and b between given range value----
+Value of a :10 and b: 5
+----Randomization of a and b between given range value----
+Value of a :8 and b: 7
+----Randomization of a and b between given range value----
+Value of a :4 and b: 8
+----Randomization of a and b between given range value----
+Value of a :9 and b: 2
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 80 ns
