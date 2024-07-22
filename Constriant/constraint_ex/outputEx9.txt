@@ -1,0 +1,23 @@
+ Jul 22 06:01 2024
+wr 1 en 0
+raddr  0 waddr 15
+wr 0 en 1
+raddr 14 waddr  0
+wr 1 en 0
+raddr  0 waddr 13
+wr 1 en 0
+raddr  0 waddr 14
+wr 1 en 0
+raddr  0 waddr 12
+wr 1 en 0
+raddr  0 waddr 11
+wr 1 en 0
+raddr  0 waddr 15
+wr 0 en 1
+raddr 12 waddr  0
+wr 1 en 0
+raddr  0 waddr 14
+wr 1 en 0
+raddr  0 waddr 11
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0 ns
