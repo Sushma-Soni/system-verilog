@@ -1,0 +1,12 @@
+Jul 22 12:46 2024
+odd num =         17
+odd num =         15
+odd num =         25
+odd num =         13
+odd num =         29
+odd num =         27
+odd num =         23
+odd num =         11
+odd num =         21
+odd num =         19
+           V C S   S i m u l a t i o n   R e p o r t 
