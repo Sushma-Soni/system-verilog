@@ -3,7 +3,7 @@
 class variable;
   rand bit [15:0] value ;
   constraint C1 { (value >0 );}
-  
+ // no consecutive ones or zeros should be generated 
   function void post_randomize();
     
     for(int i=0;i<16;i++)begin
@@ -28,7 +28,7 @@ class variable;
   rand bit [15:0] value ;
   constraint C1 { foreach(value[i]){
     if(value[i]==1 && i<15)
-      value[i+1]==0; }}  
+      value[i+1]==0;  }}  
 endclass
 module tb;
   variable num ;
