@@ -1,4 +1,4 @@
-// write a constraint for 16 bit variable such that no consecutive ones should be genrated
+// write a constraint for 16 bit variable such that no consecutive ones should be generated
 /*
 class variable;
   rand bit [15:0] value ;
