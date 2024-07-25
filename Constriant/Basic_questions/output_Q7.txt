@@ -1,0 +1,13 @@
+ Jul 25 07:11 2024
+Value = 190
+Value = 100
+Value = 130
+Value =  70
+Value =  35
+Value = 110
+Value =  20
+Value =  60
+Value =  65
+Value = 165
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0 ns
