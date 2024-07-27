@@ -1,0 +1,12 @@
+Jul 27 13:15 2024
+
+
+Size of array1=         10 array2=         20 array3=         20
+ELEMENTS OF ARRAY ARE:
+array1: '{'h26, 'h1e, 'h1f, 'h28, 'h1f, 'h24, 'h24, 'h1e, 'h1f, 'h1e} 
+
+array2: '{'h0, 'h0, 'h0, 'h0, 'h0, 'hd, 'h0, 'hd, 'h0, 'h0, 'h0, 'h28, 'h2, 'h0, 'h0, 'h0, 'h0, 'h0, 'h18, 'h0} 
+
+array3: '{'h11ac, 'h4573, 'h24b9, 'hb18e, 'hd4e4, 'h695e, 'h9475, 'he6c5, 'h67c0, 'hf043, 'he849, 'h32a8, 'h8fd4, 'h434c, 'h27e7, 'h6ca, 'hedd, 'h47f5, 'h5224, 'h1a1} 
+
+Sum of:array2=   92,array3= 1598 
