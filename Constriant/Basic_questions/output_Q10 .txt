@@ -1,0 +1,53 @@
+Aug 13 12:07 2024
+===================================
+Size of array 6
+Value of array[0]=1
+Value of array[1]=2
+Value of array[2]=3
+Value of array[3]=4
+Value of array[4]=5
+Value of array[5]=8
+===================================
+===================================
+Size of array 6
+Value of array[0]=2
+Value of array[1]=3
+Value of array[2]=8
+Value of array[3]=10
+Value of array[4]=14
+Value of array[5]=15
+===================================
+===================================
+Size of array 8
+Value of array[0]=0
+Value of array[1]=1
+Value of array[2]=2
+Value of array[3]=5
+Value of array[4]=9
+Value of array[5]=10
+Value of array[6]=12
+Value of array[7]=15
+===================================
+===================================
+Size of array 9
+Value of array[0]=0
+Value of array[1]=1
+Value of array[2]=2
+Value of array[3]=3
+Value of array[4]=6
+Value of array[5]=8
+Value of array[6]=12
+Value of array[7]=13
+Value of array[8]=15
+===================================
+===================================
+Size of array 6
+Value of array[0]=0
+Value of array[1]=1
+Value of array[2]=2
+Value of array[3]=3
+Value of array[4]=11
+Value of array[5]=14
+===================================
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0 ns
